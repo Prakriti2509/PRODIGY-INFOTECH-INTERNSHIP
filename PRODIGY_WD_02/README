@@ -1,0 +1,14 @@
+Stopwatch Application
+
+A responsive web-based stopwatch built using HTML, CSS, and JavaScript. This application allows users to start, stop, reset, and record lap times with a clean and user-friendly interface.
+
+🔧 Features
+
+Start & Stop Timer
+
+Reset Functionality
+
+Record Lap Times
+
+Real-Time Time Display (hh:mm:ss.ms)
+
